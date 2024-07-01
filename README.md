@@ -6,4 +6,4 @@ Welcome to my Writeups repository, where I document my solutions and walkthrough
 
 - CTF Writeups: My approaches to solving CTF challenges.
 - Wargame Solutions: Guides on completing wargame levels.
-- Resources Section: A compilation of tools, tips, and references I found valuable across different challenges.
+- Resources Section: A compilation of tools, tips, and references I found valuable across different challenges/platforms.
